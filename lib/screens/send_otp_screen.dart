@@ -16,6 +16,7 @@ class SendOtpScreen extends StatelessWidget {
         children: [
           Image.asset("name"),
           Dimens.small.height,
+          Image.asset("name"),
         ],
       )),
     );
